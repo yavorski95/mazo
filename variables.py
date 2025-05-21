@@ -24,6 +24,9 @@ edad = numero
 
 print(edad)
 
+todo = "el numero es: " + str(numero) + " y su nombre es: " + nombre + ". Ademas el color es " + color 
+
+print(todo)
 
 
 
